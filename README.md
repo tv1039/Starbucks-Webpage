@@ -1,10 +1,2 @@
-# Starbucks
-clone 테스트 웹 페이지 입니다.
-
-
-
-
-
-
-
-문제시 삭제 조치 하겠습니다.
+# Starbucks Web Page
+This is a clone web page. If there is a problem, it will be deleted.
